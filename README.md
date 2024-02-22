@@ -1,3 +1,3 @@
 # Nafees-1st-Demo
-This is my first repository
+This is my first repository.
 Author: Mo Nafees Ansari
